@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Computer Science and Game Design Major @ NYU
+I make a lot of games, message me if you want to play League or something.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+Fun fact: I used to have parakeets growing up.
