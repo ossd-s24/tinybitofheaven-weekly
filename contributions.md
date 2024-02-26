@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
-|     |     |     |      |
-|     |     |     |      |
+| Feb 25 | [link](https://www.openstreetmap.org/changeset/147916129) | OpenStreetMap | Added some locations around my area. |
+| Feb 25 | [link](https://en.wikipedia.org/wiki/Crab_Champions#cite_note-5) | Wikipedia | Edited content. |
+|  |  |  |
