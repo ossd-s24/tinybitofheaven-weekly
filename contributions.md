@@ -24,4 +24,4 @@ Replace the first row with your own contribution.
 |---|:---|:---|:---|
 | Feb 25 | [link](https://www.openstreetmap.org/changeset/147916129) | OpenStreetMap | Added some locations around my area. |
 | Feb 25 | [link](https://en.wikipedia.org/wiki/Crab_Champions#cite_note-5) | Wikipedia | Edited content. |
-|  |  |  |
+| Apr 28 | [link](https://github.com/freeCodeCamp/freeCodeCamp/pull/54563) | freeCodeCamp | Amended quotes according to issue |
